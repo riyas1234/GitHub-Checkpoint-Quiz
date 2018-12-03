@@ -10,4 +10,8 @@ public class GitTest{
 	public String toString(){
 		return text;
 	}
+
+	public void setString (){
+		text = "This is after my GitHub test";
+	}
 }
